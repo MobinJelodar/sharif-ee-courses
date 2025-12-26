@@ -10,7 +10,7 @@ A structured archive of coursework and projects from my Electrical Engineering s
 - [Signals and Systems](courses/signals-and-systems/)
 - [Convex Optimization](courses/convex-optimization/)
 - [Machine Learning](courses/machine-learning/)
-- [Communication Systems0](courses/communication-systems/)
+- [Communication Systems](courses/communication-systems/)
 ## What you'll find here
 Each course folder may include:
 - Homework sets (sometimes summarized or partial)
